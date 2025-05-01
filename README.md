@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/JS_logo.gif" alt="JavaScript" height="70" width="70"></img><img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/Rust_Logo.gif" alt="Rust" height="70" width="70"></img></p>
+<p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm83Mm9ndmRsbWxmMGhybHdkZ2Q3Y2U3cmQ5cTV3eXNlbHZwMHloNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" alt="JavaScript" height="70" width="70"></img><img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/Rust_Logo.gif" alt="Rust" height="70" width="70"></img></p>
  <img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/CiCd_logo.gif" alt="CiCd" height="70" width="70"></img>
 
 
