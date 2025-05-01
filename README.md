@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm **MD Rabbi Khan**</h1>
-<img align="center" src="https://tenor.com/bsGJP.gif" alt="head_logo" height="100" width="100"></img>
+<img align="center" src="https://tenor.com/bsGJP.gif" alt="head_logo" height="500" width="500"></img>
 <h3 align="center">A Web Developer & Programmer from Bangladesh</h3>
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlzZTNtdmd2MWhldnZkZXpuMGp4YmgxZnI3a2hic2VyMjkxOTVyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="coding" height="100" width="70"></img>
 
