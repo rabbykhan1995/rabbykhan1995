@@ -19,8 +19,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/JS_logo.gif" alt="JavaScript" height="70" width="70"></img> <img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/CiCd_logo.gif" alt="Rust" height="70" width="70"></img>
-<img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/Rust_Logo.gif" alt="Rust" height="70" width="70"></img>
+<p><img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/JS_logo.gif" alt="JavaScript" height="70" width="70"></img><img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/Rust_Logo.gif" alt="Rust" height="70" width="70"></img></p>
+ <img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/CiCd_logo.gif" alt="CiCd" height="70" width="70"></img>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbykhan1995&show_icons=true&locale=en" alt="rabbykhan1995" /></p>
 
