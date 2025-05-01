@@ -5,13 +5,13 @@
 
 - I am improving low level **backend**
 
-- 🌱 I’m currently learning **PDF generation with raw coding**
+- I’m currently learning **PDF generation with raw coding**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eosin-xi-96.vercel.app/](https://portfolio-eosin-xi-96.vercel.app/)
+- All of my projects are available at [https://portfolio-eosin-xi-96.vercel.app/](https://portfolio-eosin-xi-96.vercel.app/)
 
-- 💬 Ask me about **Rust, JavaScript**
+- Ask me about **Rust, JavaScript**
 
-- 📫 How to reach me **rabbykhan082020@gmail.com**
+- How to reach me **rabbykhan082020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
