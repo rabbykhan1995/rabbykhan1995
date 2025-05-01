@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:green">MD Rabbi Khan</span></h1>
+<h1 align="center">Hi, I'm **MD Rabbi Khan**</h1>
 <h3 align="center">A Web Developer & Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykhan1995&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykhan1995" /> </p>
