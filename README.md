@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/JS_logo.gif" alt="JavaScript" height="50" width="50"></img>
+<img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/JS_logo.gif" alt="JavaScript" height="70" width="70"></img>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbykhan1995&show_icons=true&locale=en" alt="rabbykhan1995" /></p>
 
