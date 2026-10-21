@@ -1,45 +1,38 @@
 <div align="center">
 
-# Hi there, I'm MD Rabbi Khan 👋
+<!-- Typing Effect Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+MD+Rabbi+Khan;Web+Developer+%26+Programmer;Backend+%26+Rust+Explorer" alt="Typing SVG" />
+</a>
 
-<img src="https://tenor.com/bsGJP.gif" alt="head_logo" height="300" width="300" />
+<br/><br/>
 
-### A Passionate Web Developer & Programmer from Bangladesh 🚀
+<!-- Main GIF Logo -->
+<img src="https://tenor.com/bsGJP.gif" alt="coding-gif" width="220" style="border-radius: 12px;" />
 
-<img src="https://komarev.com/ghpvc/?username=rabbykhan1995&label=Profile%20views&color=0e75b6&style=flat&logo=github" alt="Profile Views" />
+<br/><br/>
+
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rabbykhan1995&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/md-rabby-khan-89b7gyhy787g/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rabbykhan082020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 💻 About Me
-- 🔭 I am currently improving low-level **backend development**.
-- 🌱 I’m currently learning **PDF generation with raw coding**.
-- 💡 Ask me about **Rust, JavaScript**.
-- 🌐 All of my projects are available at [portfolio-eosin-xi-96.vercel.app](https://portfolio-eosin-xi-96.vercel.app/)
-- 📫 How to reach me: **rabbykhan082020@gmail.com**
+### ⚡ About Me
 
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-rabby-khan-89b7gyhy787g/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm83Mm9ndmRsbWxmMGhybHdkZ2Q3Y2U3cmQ5cTV3eXNlbHZwMHloNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" alt="JavaScript" height="50" width="50" />
-  <img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/Rust_Logo.gif" alt="Rust" height="50" width="50" />
-  <img src="https://res.cloudinary.com/dstwflz0y/image/upload/v1746084097/github_logo/CiCd_logo.gif" alt="CI/CD" height="50" width="50" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbykhan1995&show_icons=true&locale=en&theme=radical&hide_border=true" alt="rabbykhan1995's GitHub Stats" />
-</p>
+```yaml
+Name: MD Rabbi Khan
+Role: Web Developer & Programmer
+Location: Bangladesh 🇧🇩
+Currently Learning: PDF Generation with Raw Coding
+Focusing On: Low-level Backend Systems & Rust
+Portfolio: [https://portfolio-eosin-xi-96.vercel.app/](https://portfolio-eosin-xi-96.vercel.app/)
